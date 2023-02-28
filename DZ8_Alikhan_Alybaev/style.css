@@ -1,0 +1,40 @@
+
+
+canvas {
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.modal {
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    background: white;
+    border-radius: 30px;
+}
+.restarter{
+    width: 300px;
+    height: 70px;
+    margin-top: 25px;
+    margin-left: 100px;
+    background-color:rgb(162,209,73);
+    color: white;
+    border: rgb(162,209,73) solid 1px;
+    border-radius: 15px;
+    font-size: 30px;
+    font-weight: 700;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    color: rgb(162,209,73);
+    font-size: 2.9rem;
+    margin-top: 70px;
+    margin-left: 170px;
+}
